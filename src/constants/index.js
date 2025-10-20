@@ -128,7 +128,7 @@ const footerLinks = [
     { label: "Site Map", link: "#" },
 ];
 
-export {
+export{
     features,
     featureSequence,
     footerLinks,
